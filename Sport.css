@@ -1,0 +1,326 @@
+* {
+  box-sizing: border-box;
+}
+
+html{
+	background: green;
+    margin : 0px;
+    padding: 0px;
+	border-style: hidden;
+	
+	}
+
+
+body {
+    background-color: black;
+	margin:0px;
+	padding: 0px;
+
+}
+
+
+body div img {
+	
+	padding:  0px;
+	margin: 0;
+	margin-top: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+
+.header {
+	background-color: green;
+	height: 80px;
+	margin: 0px;
+	text-align: center;
+}
+.kettelbell{
+  position: relative;
+  
+	
+  
+}
+
+.text-over{
+  position: absolute;
+  right: 65%;
+  top: 20%;
+  color: white;
+  text-decoration: underline;
+ font-size: 50px;
+  
+}
+
+
+.calltoaction{
+  position: absolute;
+  right: 65%;
+  top: 50%;
+  color: white;
+  font-size: 25px;
+  background-color: green;
+  border-radius: 30px;
+  border-width: 1px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.section{
+  position: absolute;
+  right: 67%;
+  top: 37%;
+  color: white;
+  font-size: 18px;
+
+}
+
+div p em a{
+  text-decoration: none;
+  color: white;
+}
+
+
+.identifiant{
+	width: 20px;
+	height: 20px ;
+	float: left;
+	margin: 3px;
+	
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px;
+	
+	
+}
+
+ul li a{
+	color: white;
+	letter-spacing: 0.1rem;
+	
+} 	
+
+ul li a:hover{
+	color: yellow;
+	text-decoration: underline; 
+	 
+}
+
+.menu li{
+	float: right;
+	padding: 35px;
+}
+
+.menu li a{
+	text-decoration: none;
+}
+
+body div h1{
+  margin-left: 40px;
+  
+}
+
+.banner1{
+	padding: 22px;
+	color: white;
+	text-align: left;
+	text-decoration: underline;
+}
+
+
+.footer{
+	background-color: lightgreen;
+	height: 80px;
+	margin: 0px;
+	text-align: center;
+}
+
+.taille1{
+  width: 20px;
+  height: 20px;
+  margin: 0px;
+  float: right;
+  padding: 4px;
+}
+
+.taille2{
+  width: 20px;
+  height: 20px;
+  margin: 0px;
+  float: right;
+  padding: 4px;
+}
+
+.taille3{
+  width: 20px;
+  height: 20px;
+  margin: 0px;
+  float: right;
+  padding: 4px;
+}
+
+.banner2{
+  padding: 22px;
+  color: white;
+  text-align: left;
+  text-decoration: underline;
+
+}
+    
+	
+/*PAGE COURS*/
+
+.title1 { 
+  color: white;
+  
+}
+
+.zumba {
+  height: 100%;
+  width: 27%;
+}
+
+.title2{ 
+  color: white; 
+  
+}
+
+.pilate {
+  height: 100%;
+  width: 35%;
+  padding-left: 150px;
+}
+.title3{ 
+  color: white; 
+  
+}
+
+.boxe {
+  height: 100%;
+  width: 24%;
+  
+}
+
+.title4{ 
+  color: white;
+
+}
+
+.hiit {
+  height: 100%;
+  width: 32%;
+  padding-left: 114px;
+}
+
+
+.title5{ 
+  color: white;
+  
+}
+
+.yoga {
+  height: 100%;
+  width: 20%;
+  
+}
+
+/*PAGE TARIFS*/
+.photojoie{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background: green;
+	
+}
+
+.abonnement{
+  padding-left: 100px;
+}
+
+.prix2{
+  color: green;
+  position: absolute;
+  top: 5%;
+  font-size: 40px;
+  padding-left: 100px;
+}
+.prix3{
+  color: black;
+  position: absolute;
+  top: 20%;
+  font-size: 30px;
+}
+.prix4{
+  color: black;
+  position: absolute;
+  top: 30%;
+  font-size: 30px;
+}
+.prix5{
+  color: black;
+  position: absolute;
+  top: 40%;
+  font-size: 30px;
+}
+.prix6{
+  color: black;
+  position: absolute;
+  top: 50%;
+  font-size: 30px;
+}
+
+.prix7{
+  color: black;
+  position: absolute;
+  top: 60%;
+  font-size: 30px;
+}
+
+
+body section{
+	background-color: lightgreen;
+}
+
+/*PAGE contact*/
+
+.phonenoir{
+	position: relative;
+}
+
+
+.contact2{
+	position: absolute;
+	color: white;
+	top: 5%;
+	padding-left: 100px;
+	font-size: 40px;
+}
+.phone{
+  font-size: 30px;
+  padding-left: 60px;
+  
+}
+
+.adresse{
+  font-size: 30px;
+}
+
+/*.carte{
+  padding-left: 60px;
+}*/
+
+.contact3{
+	position: absolute;
+	color: white;
+	top: 20%;
+	padding-left: 100px;
+	list-style: none;
+}
+
+.avengercontact{
+  background-color: green;
+}
